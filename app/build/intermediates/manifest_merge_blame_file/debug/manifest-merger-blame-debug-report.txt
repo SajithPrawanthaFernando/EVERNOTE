@@ -15,89 +15,91 @@
 11-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:4:22-77
 12
 13    <application
-13-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:6:5-40:19
+13-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:6:5-41:19
 14        android:allowBackup="true"
 14-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:7:9-35
 15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 15-->[androidx.core:core:1.7.0] C:\Users\Sajith Fernando\.gradle\caches\transforms-3\ec8778f597115131b77fc5968136215d\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
 16        android:debuggable="true"
 17        android:extractNativeLibs="false"
-18        android:icon="@mipmap/ic_launcher"
-18-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:8:9-43
-19        android:label="@string/app_name"
-19-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:9:9-41
-20        android:roundIcon="@mipmap/ic_launcher_round"
-20-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:10:9-54
-21        android:supportsRtl="true"
-21-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:11:9-35
-22        android:testOnly="true"
-23        android:theme="@style/Theme.NoteApp" >
-23-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:12:9-45
-24        <activity
-24-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:14:9-23:20
-25            android:name="com.shaluambasta.noteapp.intropage"
-25-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:15:13-38
-26            android:exported="true"
-26-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:16:13-36
-27            android:screenOrientation="portrait" >
-27-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:17:13-49
-28            <intent-filter>
-28-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:18:13-22:29
-29                <action android:name="android.intent.action.MAIN" />
-29-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:19:17-69
-29-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:19:25-66
-30
-31                <category android:name="android.intent.category.LAUNCHER" />
-31-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:21:17-77
-31-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:21:27-74
-32            </intent-filter>
-33        </activity>
-34        <activity
-34-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:25:9-28:52
-35            android:name="com.shaluambasta.noteapp.UpdateNoteActivity"
-35-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:26:13-47
-36            android:exported="false"
-36-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:27:13-37
-37            android:screenOrientation="portrait" />
-37-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:28:13-49
-38        <activity
-38-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:30:9-33:52
-39            android:name="com.shaluambasta.noteapp.AddNoteActivity"
-39-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:31:13-44
-40            android:exported="false"
-40-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:32:13-37
-41            android:screenOrientation="portrait" />
-41-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:33:13-49
-42        <activity
-42-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:35:9-38:52
-43            android:name="com.shaluambasta.noteapp.MainActivity"
-43-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:36:13-41
-44            android:exported="false"
-44-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:37:13-37
-45            android:screenOrientation="portrait" />
-45-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:38:13-49
-46
-47        <provider
-47-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Sajith Fernando\.gradle\caches\transforms-3\69d291d347a635c15fd15a8466543966\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
-48            android:name="androidx.startup.InitializationProvider"
-48-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Sajith Fernando\.gradle\caches\transforms-3\69d291d347a635c15fd15a8466543966\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
-49            android:authorities="com.shaluambasta.noteapp.androidx-startup"
-49-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Sajith Fernando\.gradle\caches\transforms-3\69d291d347a635c15fd15a8466543966\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
-50            android:exported="false" >
-50-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Sajith Fernando\.gradle\caches\transforms-3\69d291d347a635c15fd15a8466543966\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
-51            <meta-data
-51-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Sajith Fernando\.gradle\caches\transforms-3\69d291d347a635c15fd15a8466543966\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
-52                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-52-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Sajith Fernando\.gradle\caches\transforms-3\69d291d347a635c15fd15a8466543966\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
-53                android:value="androidx.startup" />
-53-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Sajith Fernando\.gradle\caches\transforms-3\69d291d347a635c15fd15a8466543966\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
-54            <meta-data
-54-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Sajith Fernando\.gradle\caches\transforms-3\5518efa1c1ca29993905068db3381641\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
-55                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-55-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Sajith Fernando\.gradle\caches\transforms-3\5518efa1c1ca29993905068db3381641\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
-56                android:value="androidx.startup" />
-56-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Sajith Fernando\.gradle\caches\transforms-3\5518efa1c1ca29993905068db3381641\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
-57        </provider>
-58    </application>
-59
-60</manifest>
+18        android:font="@font/italic"
+18-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:10:9-36
+19        android:icon="@mipmap/ic_launcher"
+19-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:8:9-43
+20        android:label="EVERNOTE"
+20-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:9:9-33
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:11:9-54
+22        android:supportsRtl="true"
+22-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:12:9-35
+23        android:testOnly="true"
+24        android:theme="@style/Theme.NoteApp" >
+24-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:13:9-45
+25        <activity
+25-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:15:9-24:20
+26            android:name="com.shaluambasta.noteapp.intropage"
+26-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:16:13-38
+27            android:exported="true"
+27-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:17:13-36
+28            android:screenOrientation="portrait" >
+28-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:18:13-49
+29            <intent-filter>
+29-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:19:13-23:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:20:17-69
+30-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:20:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:22:17-77
+32-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:22:27-74
+33            </intent-filter>
+34        </activity>
+35        <activity
+35-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:26:9-29:52
+36            android:name="com.shaluambasta.noteapp.UpdateNoteActivity"
+36-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:27:13-47
+37            android:exported="false"
+37-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:28:13-37
+38            android:screenOrientation="portrait" />
+38-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:29:13-49
+39        <activity
+39-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:31:9-34:52
+40            android:name="com.shaluambasta.noteapp.AddNoteActivity"
+40-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:32:13-44
+41            android:exported="false"
+41-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:33:13-37
+42            android:screenOrientation="portrait" />
+42-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:34:13-49
+43        <activity
+43-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:36:9-39:52
+44            android:name="com.shaluambasta.noteapp.MainActivity"
+44-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:37:13-41
+45            android:exported="false"
+45-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:38:13-37
+46            android:screenOrientation="portrait" />
+46-->C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:39:13-49
+47
+48        <provider
+48-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Sajith Fernando\.gradle\caches\transforms-3\69d291d347a635c15fd15a8466543966\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+49            android:name="androidx.startup.InitializationProvider"
+49-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Sajith Fernando\.gradle\caches\transforms-3\69d291d347a635c15fd15a8466543966\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+50            android:authorities="com.shaluambasta.noteapp.androidx-startup"
+50-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Sajith Fernando\.gradle\caches\transforms-3\69d291d347a635c15fd15a8466543966\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+51            android:exported="false" >
+51-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Sajith Fernando\.gradle\caches\transforms-3\69d291d347a635c15fd15a8466543966\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+52            <meta-data
+52-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Sajith Fernando\.gradle\caches\transforms-3\69d291d347a635c15fd15a8466543966\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+53                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+53-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Sajith Fernando\.gradle\caches\transforms-3\69d291d347a635c15fd15a8466543966\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+54                android:value="androidx.startup" />
+54-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Sajith Fernando\.gradle\caches\transforms-3\69d291d347a635c15fd15a8466543966\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+55            <meta-data
+55-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Sajith Fernando\.gradle\caches\transforms-3\5518efa1c1ca29993905068db3381641\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+56                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+56-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Sajith Fernando\.gradle\caches\transforms-3\5518efa1c1ca29993905068db3381641\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+57                android:value="androidx.startup" />
+57-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Sajith Fernando\.gradle\caches\transforms-3\5518efa1c1ca29993905068db3381641\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+58        </provider>
+59    </application>
+60
+61</manifest>

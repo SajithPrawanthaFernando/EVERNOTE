@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:1:1-42:12
-INJECTED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:1:1-42:12
-INJECTED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:1:1-42:12
-INJECTED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:1:1-42:12
+ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:1:1-43:12
+INJECTED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:1:1-43:12
+INJECTED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:1:1-43:12
+INJECTED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:1:1-43:12
 MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\Sajith Fernando\.gradle\caches\transforms-3\e19861ce7b8563417dc1511f73c483f4\transformed\core-ktx-1.7.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.material:material:1.6.0] C:\Users\Sajith Fernando\.gradle\caches\transforms-3\cd89ed5716854325477b71e23392e469\transformed\material-1.6.0\AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\Sajith Fernando\.gradle\caches\transforms-3\e72a85dbb5c713d9ad71e95c488bc40d\transformed\constraintlayout-2.1.3\AndroidManifest.xml:2:1-11:12
@@ -44,20 +44,20 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Sajith Fernando\
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Sajith Fernando\.gradle\caches\transforms-3\9d0c77dd1770378002ff54115441683e\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\Sajith Fernando\.gradle\caches\transforms-3\b3b5854c62d88c11253ad4ee9675c88b\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Sajith Fernando\.gradle\caches\transforms-3\c2136a09f4ba6174dc1f03fabe769ae4\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:1:1-42:12
-INJECTED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:1:1-42:12
-INJECTED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:1:1-42:12
+INJECTED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:1:1-43:12
+INJECTED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:1:1-43:12
+INJECTED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:1:1-43:12
 	package
 		ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:2:5-39
 		INJECTED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:1:1-42:12
+		ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:1:1-43:12
 		INJECTED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:1:1-42:12
+		ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:1:1-43:12
 		INJECTED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:1:11-69
@@ -66,7 +66,7 @@ ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\Android
 	android:name
 		ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:4:22-77
 application
-ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:6:5-40:19
+ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:6:5-41:19
 MERGED from [com.google.android.material:material:1.6.0] C:\Users\Sajith Fernando\.gradle\caches\transforms-3\cd89ed5716854325477b71e23392e469\transformed\material-1.6.0\AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.6.0] C:\Users\Sajith Fernando\.gradle\caches\transforms-3\cd89ed5716854325477b71e23392e469\transformed\material-1.6.0\AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\Sajith Fernando\.gradle\caches\transforms-3\e72a85dbb5c713d9ad71e95c488bc40d\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
@@ -84,59 +84,61 @@ MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Sajith Fernando\.g
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.7.0] C:\Users\Sajith Fernando\.gradle\caches\transforms-3\ec8778f597115131b77fc5968136215d\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:11:9-35
+		ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:12:9-35
 	android:label
-		ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:9:9-41
+		ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:9:9-33
 	android:roundIcon
-		ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:10:9-54
+		ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:11:9-54
 	android:icon
 		ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:8:9-43
 	android:allowBackup
 		ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:7:9-35
+	android:font
+		ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:10:9-36
 	android:theme
-		ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:12:9-45
+		ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:13:9-45
 activity#com.shaluambasta.noteapp.intropage
-ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:14:9-23:20
+ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:15:9-24:20
 	android:screenOrientation
-		ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:17:13-49
+		ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:18:13-49
 	android:exported
-		ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:16:13-36
+		ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:17:13-36
 	android:name
-		ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:15:13-38
+		ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:16:13-38
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:18:13-22:29
+ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:19:13-23:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:19:17-69
+ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:20:17-69
 	android:name
-		ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:19:25-66
+		ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:20:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:21:17-77
+ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:22:17-77
 	android:name
-		ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:21:27-74
+		ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:22:27-74
 activity#com.shaluambasta.noteapp.UpdateNoteActivity
-ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:25:9-28:52
+ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:26:9-29:52
 	android:screenOrientation
-		ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:28:13-49
+		ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:29:13-49
 	android:exported
-		ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:27:13-37
+		ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:28:13-37
 	android:name
-		ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:26:13-47
+		ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:27:13-47
 activity#com.shaluambasta.noteapp.AddNoteActivity
-ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:30:9-33:52
+ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:31:9-34:52
 	android:screenOrientation
-		ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:33:13-49
+		ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:34:13-49
 	android:exported
-		ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:32:13-37
+		ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:33:13-37
 	android:name
-		ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:31:13-44
+		ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:32:13-44
 activity#com.shaluambasta.noteapp.MainActivity
-ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:35:9-38:52
+ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:36:9-39:52
 	android:screenOrientation
-		ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:38:13-49
+		ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:39:13-49
 	android:exported
-		ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:37:13-37
+		ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:38:13-37
 	android:name
-		ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:36:13-41
+		ADDED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml:37:13-41
 uses-sdk
 INJECTED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Sajith Fernando\Desktop\note-app-master\app\src\main\AndroidManifest.xml
